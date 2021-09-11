@@ -1,0 +1,11 @@
+{
+    "name": "thai-datejs-utils",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/Kitipatteacha/thai-datejs-utils.git",
+    "author": "Kitipat.t <Kitipat_teacha@outlook.co.th>",
+    "license": "MIT",
+    "dependencies": {
+        "dayjs": "^1.10.7"
+    }
+}
